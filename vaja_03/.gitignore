@@ -3,4 +3,10 @@
 data
 .venv
 FlyingChairs.zip
+MPI-Sintel-complete
+input_video.mp4
+output_flow.mp4
+porocilo_savc.pdf
+loss_multi_output.png
+loss_single_output.png
 
