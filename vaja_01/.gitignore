@@ -1,5 +1,6 @@
 .vscode
 .idea
-images
+dataset
+test_dataset
 .venv
 porocilo_savc.pdf
