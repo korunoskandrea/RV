@@ -7,8 +7,4 @@ MPI-Sintel-complete
 input_own_video.mp4
 output_flow.mp4
 porocilo_savc.pdf
-loss_multi_output.png
-loss_single_output.png
-models_single
-models_multi
 
