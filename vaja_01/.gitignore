@@ -4,6 +4,4 @@ dataset
 dataset_test
 .venv
 porocilo_savc.pdf
-models_classification
-models_regression
 runs
