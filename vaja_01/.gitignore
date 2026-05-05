@@ -1,7 +1,7 @@
 .vscode
 .idea
-dataset
-dataset_test
+dataset.zip
+dataset_test.zip
 .venv
 porocilo_savc.pdf
 runs
