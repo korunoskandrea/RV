@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vaja_04/Detekcija predmetov/DiceDetectionPytorch" vcs="Git" />
   </component>
 </project>
